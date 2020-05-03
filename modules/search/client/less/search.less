@@ -2,6 +2,7 @@
 @import './variables';
 
 .search {
+  align-items: stretch;
   position: fixed;
   top: @navbar-height;
   left: 0;
@@ -13,7 +14,6 @@
 
 // Styled as 'mobile first'
 .search-sidebar-container {
-  border: 1px solid green;
   /*
   position: absolute;
   width: auto;
@@ -43,4 +43,7 @@
 
 .search-map-container {
   flex: 1;
+  > div {
+    height: 100%;
+  }
 }
