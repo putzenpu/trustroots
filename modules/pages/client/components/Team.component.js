@@ -278,7 +278,7 @@ export default function Team() {
               <h4 className="media-heading">Noah</h4>
               <p className="text-color-links">
                 {t(
-                  'Focussed on community building. Technical know-how in various fields. Likes to create safe spaces everywhere around the world, digital and analog ones.',
+                  'Focused on community building. Technical know-how in various fields. Likes to create safe spaces everywhere around the world, digital and analog ones.',
                 )}
               </p>
               <p>
