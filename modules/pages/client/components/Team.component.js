@@ -325,6 +325,126 @@ export default function Team() {
             </div>
           </div>
         </div>
+        <div className="col-xs-12 col-sm-4 col-sm-offset-2">
+          {/* Loberto */}
+          <div className="media">
+            <img
+              className="media-object img-circle pull-left"
+              src="/img/placeholder_image.jpg"
+              width="100"
+              alt="Loberto"
+            />
+            <div className="media-body">
+              <h4 className="media-heading">Loberto</h4>
+              <p className="text-color-links">
+                {t(
+                  'placeholder_description',
+                )}
+              </p>
+              <p>
+                <Tooltip
+                  id="trustroot-tooltip"
+                  tooltip="Trustroots"
+                  placement="bottom"
+                >
+                  <a href="/profile/loberto">
+                    <i className="text-muted icon-fw icon-lg icon-tree"></i>{' '}
+                  </a>
+                </Tooltip>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col-xs-12 col-sm-4 col-sm-offset-2">
+          {/* Ludo */}
+          <div className="media">
+            <img
+              className="media-object img-circle pull-left"
+              src="/img/placeholder_image.jpg"
+              width="100"
+              alt="Ludo"
+            />
+            <div className="media-body">
+              <h4 className="media-heading">Noah</h4>
+              <p className="text-color-links">
+                {t(
+                  'placeholder_description',
+                )}
+              </p>
+              <p>
+                <Tooltip
+                  id="trustroot-tooltip"
+                  tooltip="Trustroots"
+                  placement="bottom"
+                >
+                  <a href="/profile/ludob8">
+                    <i className="text-muted icon-fw icon-lg icon-tree"></i>{' '}
+                  </a>
+                </Tooltip>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col-xs-12 col-sm-4 col-sm-offset-2">
+          {/* Paula */}
+          <div className="media">
+            <img
+              className="media-object img-circle pull-left"
+              src="/img/placeholder_image.jpg"
+              width="100"
+              alt="Paula"
+            />
+            <div className="media-body">
+              <h4 className="media-heading">Paula</h4>
+              <p className="text-color-links">
+                {t(
+                  'placeholder_description',
+                )}
+              </p>
+              <p>
+                <Tooltip
+                  id="trustroot-tooltip"
+                  tooltip="Trustroots"
+                  placement="bottom"
+                >
+                  <a href="/profile/rebelmermaid">
+                    <i className="text-muted icon-fw icon-lg icon-tree"></i>{' '}
+                  </a>
+                </Tooltip>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col-xs-12 col-sm-4 col-sm-offset-2">
+          {/* Philipp */}
+          <div className="media">
+            <img
+              className="media-object img-circle pull-left"
+              src="/img/placeholder_image.jpg"
+              width="100"
+              alt="Philipp"
+            />
+            <div className="media-body">
+              <h4 className="media-heading">Philipp</h4>
+              <p className="text-color-links">
+                {t(
+                  'placeholder_description',
+                )}
+              </p>
+              <p>
+                <Tooltip
+                  id="trustroot-tooltip"
+                  tooltip="Trustroots"
+                  placement="bottom"
+                >
+                  <a href="/profile/lepiiile">
+                    <i className="text-muted icon-fw icon-lg icon-tree"></i>{' '}
+                  </a>
+                </Tooltip>
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
 
       <hr />
